@@ -1,6 +1,9 @@
 # Env
 env.yml
 
+# Test commamd
+testAPIcommand
+
 # Logs
 logs
 *.log
